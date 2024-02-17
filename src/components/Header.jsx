@@ -1,5 +1,5 @@
 
-import { logo_URL } from "../utils/constants";
+import { logo_URL } from "../constants";
 
 const Header=()=>{
   return(

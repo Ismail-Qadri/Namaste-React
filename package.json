@@ -20,10 +20,11 @@
     "process": "^0.11.10"
   },
   "dependencies": {
+    "http-proxy-middleware": "^2.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "browserlist":[
+  "browserlist": [
     "last 2 versions"
   ]
 }
